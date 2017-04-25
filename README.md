@@ -6,10 +6,13 @@ Depends on libraries:
 - Adafruit_BMP085
 
 To compile the application just run:
+
 % ./build.sh
 
 To flash binary to device edit the file and set DEV_NAME to your own device and run:
+
 % ./flash.sh
 
 More info no how to use particle commands can be found on:
+
 https://docs.particle.io/guide/tools-and-features/cli/photon/
